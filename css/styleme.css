@@ -6,5 +6,24 @@ em, h1 {
     background-color: gray;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p:first-letter {
+    float: left;
+    font-size: 20px;
+    line-height: 0.8;
+    font-weight: bold;
+}
+
+dt {
+    font-weight: bold;
+}
+
 
 
